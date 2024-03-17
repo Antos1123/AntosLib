@@ -1,2 +1,1 @@
-# AntosLib
-This plugin is a convenience library only for developers.
+This plugin was created solely for the convenience of developers.
