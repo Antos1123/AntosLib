@@ -1,0 +1,7 @@
+main: kr.antos112.antosLib.AntosLib
+name: "AntosLib"
+version: 1.0.0
+author: Antos112
+api-version: 1.19
+softdepend:
+  - Vault
