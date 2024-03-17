@@ -23,3 +23,4 @@ public void onEnble() {
 	CofigurationManager configManager = new CofigurationManager(this);
 	configManager.loadConfig();
 }
+````
